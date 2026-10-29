@@ -2,7 +2,7 @@
 
 Spring Boot CRUD application with PostgreSQL, Docker and Jenkins.
 
-Status: draft
+Status: documented by Moldashev Salamat
 
 ## Changes by Moldashev Salamat
 Added PUT /api/students/{id} to update a student.
